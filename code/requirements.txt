@@ -1,0 +1,8 @@
+jupyterlab
+jupyterlab-git
+scikit-image
+shapely
+rtree
+#pyembree this is broken on python 3.9
+xlsxwriter
+moviepy
